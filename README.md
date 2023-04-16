@@ -8,3 +8,7 @@
 - Semantic HTML elements.
 - Keeping in view accessibility guidelines.
 - CSS Flexbox & Grid for layout.
+
+# References
+- <a href="https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form">Project: Sign-up Form</a>
+- <a href="https://www.theodinproject.com/">The Odin Project</a>
