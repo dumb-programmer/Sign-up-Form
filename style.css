@@ -74,7 +74,7 @@ body {
 }
 
 .sign-up-main {
-    background-color: (--background-clr);
+    background-color: var(--background-clr);
     flex: 2;
 
 }
@@ -136,7 +136,7 @@ body {
 }
 
 .error-message {
-    display: none;
+    visibility: hidden;
     margin: 0;
     padding: 0;
     font-size: 0.7rem;
